@@ -1,3 +1,2 @@
 ### SpaceHMchat
-### This paper and dataset are still in the submission stage to the journal and are undergoing expert review and improvement
-### The data will be made available upon acceptance of the paper. We sincerely appreciate your interest and patience!
+### This manuscript is currently under journal submission. The code and dataset have been uploaded to Mendeley Data as a draft version, and the corresponding sharing link has been provided to the reviewers for review and improvement. If the manuscript can be accepted after the review process, we will promptly synchronize the code and data to GitHub. Thank you very much for your interest and patience!
