@@ -1,4 +1,4 @@
-# This page introduces the deployment methods of SpaceHMchat, which serves as its user manual.
+# This page introduces the deployment methods of SpaceHMchat, which serves as its user manual. (我们也提供了中文版：[Deploy\readme_CN.md](./readme_CN.md))
 
 ## Notes:
 
