@@ -1,9 +1,9 @@
 ### SpaceHMchat: a Human-AI collaboration framework for all-in-loop health management, it serves across the entire loop of work condition recognition, anomaly detection, fault localization, and maintenance decision making.
 
-> [Deploy](../Deploy/) provides [deployment methods and use instructions](../Deploy/readme.md) for SpaceHMchat.  
-> [Code](../Code/) is the [underlying codebase](../Code/API_server/) for SpaceHMchat, such as [anomaly detection tools](../Code/AD_repository/), [LLM finetuned methods](../Code/FD_LLM_finetune_juputer/), etc.  
-> [Data](../Data/) is the [open-source dataset](https://diyi1999.github.io/XJTU-SPS/) for spacecraft power system AIL health management.  
-> [A Dialogue Example](#spacechat对话示例--dialogue-example-of-spacechat) of SpaceHMchat is provided at the end of this README.
+> [Deploy](./Deploy/) provides [deployment methods and use instructions](./Deploy/readme.md) for SpaceHMchat.  
+> [Code](./Code/) is the [underlying codebase](./Code/API_server/) for SpaceHMchat, such as [anomaly detection tools](./Code/AD_repository/), [LLM finetuned methods](./Code/FD_LLM_finetune_juputer/), etc.  
+> [Data](./Data/) is the [open-source dataset](https://diyi1999.github.io/XJTU-SPS/) for spacecraft power system AIL health management.  
+> [A Dialogue Example](./Deploy/Pictures/CompleteChatExample.png) of SpaceHMchat is provided at the end of this README.
 
 ******
 
