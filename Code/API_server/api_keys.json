@@ -1,0 +1,8 @@
+{
+    "aliyun": "your-aliyun-api-key-here",
+    "ModelScope": "your-modelscope-api-key-here",
+    "SiliconFlow": "your-siliconflow-api-key-here",
+    "huggingface": "your-huggingface-api-key-here"
+}
+
+
